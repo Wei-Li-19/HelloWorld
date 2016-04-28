@@ -1,0 +1,117 @@
+{
+    "status": "ok",
+    "photos": [
+               {
+               "image": "Photo0.jpg",
+               "title": "佛香阁",
+               "description": "佛香阁古老的建筑",
+               "latitude": 39.9989,
+               "longitude": 116.2687,
+               "date": "2016-3-28 2:45"
+               },
+               {
+               "image": "Photo1.jpg",
+               "title": "石桥",
+               "description": "颐和园石桥",
+               "latitude": 39.9991,
+               "longitude": 116.2618,
+               "date": "2016-3-28 3:21"
+               },
+               {
+               "image": "Photo2.jpg",
+               "title": "界湖桥",
+               "description": "昆明湖畔界湖桥",
+               "latitude": 39.9813,
+               "longitude": 116.2689,
+               "date": "2016-3-28 4:19"
+               },
+               {
+               "image": "Photo3.jpg",
+               "title": "佛香阁",
+               "description": "遥望佛香阁",
+               "latitude": 39.9813,
+               "longitude": 116.2689,
+               "date": "2016-3-28 4:19"
+               },
+               {
+               "image": "Photo4.jpg",
+               "title": "知春亭",
+               "description": "碧水当中知春亭",
+               "latitude": 39.9801,
+               "longitude": 116.2726,
+               "date": "2016-3-28 4:30"
+               },
+               {
+               "image": "Photo5.jpg",
+               "title": "龙船",
+               "description": "昆明湖中行使的龙船",
+               "latitude": 39.9893,
+               "longitude": 116.2721,
+               "date": "2016-3-28 4:53"
+               },
+               {
+               "image": "Photo6.jpg",
+               "title": "鸟巢",
+               "description": "阳光下的鸟巢",
+               "latitude": 39.9939,
+               "longitude": 116.3867,
+               "date": "2016-3-10 3:46"
+               },
+               {
+               "image": "Photo7.jpg",
+               "title": "奥林匹克公园",
+               "description": "公园中清澈的湖水",
+               "latitude": 39.998,
+               "longitude": 116.3885,
+               "date": "2016-3-10 3:46"
+               },
+               {
+               "image": "Photo8.jpg",
+               "title": "国家图书馆",
+               "description": "知识的海洋—北京国家图书馆",
+               "latitude": 39.942,
+               "longitude": 116.3184,
+               "date": "2016-1-30 3:46"
+               },
+               {
+               "image": "Photo9.jpg",
+               "title": "朝阳下的铁轨",
+               "description": "美丽的清晨-朝阳下的铁轨",
+               "latitude": 40.066,
+               "longitude": 116.3697,
+               "date": "2016-1-30 7:24"
+               },
+               {
+               "image": "Photo10.jpg",
+               "title": "小湖畔的垂柳",
+               "description": "河大小湖畔的垂柳",
+               "latitude": 40.066,
+               "longitude": 116.3697,
+               "date": "2016-1-30 7:24"
+               },
+               {
+               "image": "Photo11.jpg",
+               "title": "校园广场",
+               "description": "图书馆前的广场",
+               "latitude": 40.066,
+               "longitude": 116.3697,
+               "date": "2016-1-30 7:24"
+               },
+               {
+               "image": "Photo12.jpg",
+               "title": "清明上河园",
+               "description": "小河中的游船",
+               "latitude": 40.066,
+               "longitude": 116.3697,
+               "date": "2016-1-30 7:24"
+               },
+               {
+               "image": "Photo13.jpg",
+               "title": "夕阳下的公园",
+               "description": "魅力家乡",
+               "latitude": 40.066,
+               "longitude": 116.3697,
+               "date": "2016-1-30 7:24"
+               }
+               ]
+}

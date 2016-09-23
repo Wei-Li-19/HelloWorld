@@ -9,7 +9,7 @@
 import UIKit
 
 class PhotosTableViewController: UITableViewController, UISearchResultsUpdating {
-    let photoCollection = PhotoCollection.sharedInstance //Singleton an instance of an object that allows other objects to ask for the information. Holds 1 instance of the json and can be asked for it. sharedInstance is the model/ static method of the app
+    let photoCollection = PhotoCollection.sharedInstance
     var filteredPhotos: [Photo]!
     var searchController: UISearchController!
     
